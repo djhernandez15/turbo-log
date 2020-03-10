@@ -11,7 +11,6 @@ import NavBar from "../navbar/NavBar";
 import DatePicker from "./DatePicker";
 import DIY from "./DIY";
 import Shop from "./Shop";
-import {Link} from "react-router-dom"
 import { makeStyles } from "@material-ui/core/styles";
 import TextField from "@material-ui/core/TextField";
 import { Typography, Radio, Button, Grid } from "@material-ui/core";
